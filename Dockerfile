@@ -1,1 +1,1 @@
-FROM docker.io/emqx/emqx:4.2.1
+FROM docker.io/emqx/emqx:4.2.3
